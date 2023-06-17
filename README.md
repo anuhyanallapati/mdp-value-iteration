@@ -1,2 +1,2 @@
-# mdp-value-iteration
-Python code implementing value iteration
+# Implementing Value Iteration for MDP
+`Assignment 3.pdf` has the problem to be solved.
